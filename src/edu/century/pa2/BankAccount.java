@@ -3,6 +3,7 @@ package edu.century.pa2;
 import java.util.Date;
 import java.util.Random;
 
+//git test
 public class BankAccount{
 	private double balance;
 	private Date date;
